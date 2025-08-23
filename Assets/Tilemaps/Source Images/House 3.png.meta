@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 1b281e14cfe80d84e9cb39cf541d2870
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6663862592564836716
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_0
+  - first:
+      213: -4454151569694106609
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_1
+  - first:
+      213: -3054116418973874032
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_2
+  - first:
+      213: 6567759673082837033
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_3
+  - first:
+      213: 1457163248375988906
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_4
+  - first:
+      213: 6004137957090677328
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_5
+  - first:
+      213: -8997138372605428293
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_6
+  - first:
+      213: -5579224434326880512
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_7
+  - first:
+      213: 4414443813794621641
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_8
+  - first:
+      213: -9007512514232753836
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_9
+  - first:
+      213: -8180999023629820354
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_10
+  - first:
+      213: -1759748364924149463
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_11
+  - first:
+      213: -8518467616230213874
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_12
+  - first:
+      213: -7426369636635884318
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_13
+  - first:
+      213: 70791827655392051
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_14
+  - first:
+      213: -3780627512862793338
+    second: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 85
+        width: 320
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6937d5a8bbca7c50800000000000000
+      internalID: 6663862592564836716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c52a81fbcaf22c0800000000000000
+      internalID: -4454151569694106609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 22
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098cf506c499d95d0800000000000000
+      internalID: -3054116418973874032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928fc3c00ae552b50800000000000000
+      internalID: 6567759673082837033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 21
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa284370142e83410800000000000000
+      internalID: 1457163248375988906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 21
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05254d229abf25350800000000000000
+      internalID: 6004137957090677328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd31d9a15eb32380800000000000000
+      internalID: -8997138372605428293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 21
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f34cddfec9292b0800000000000000
+      internalID: -5579224434326880512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8262a8241434d30800000000000000
+      internalID: 4414443813794621641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45165479713eef280800000000000000
+      internalID: -9007512514232753836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e1ab89bb0477e80800000000000000
+      internalID: -8180999023629820354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9212f968f2e1497e0800000000000000
+      internalID: -1759748364924149463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 21
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07fde7f5d258c980800000000000000
+      internalID: -8518467616230213874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4429d792c30f890800000000000000
+      internalID: -7426369636635884318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 22
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b766ccac08bf000800000000000000
+      internalID: 70791827655392051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_15
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 21
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681aeb3ce43888bc0800000000000000
+      internalID: -3780627512862793338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_0: 6663862592564836716
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_1: -4454151569694106609
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_10: -8180999023629820354
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_11: -1759748364924149463
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_12: -8518467616230213874
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_13: -7426369636635884318
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_14: 70791827655392051
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_15: -3780627512862793338
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_2: -3054116418973874032
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_3: 6567759673082837033
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_4: 1457163248375988906
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_5: 6004137957090677328
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_6: -8997138372605428293
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_7: -5579224434326880512
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_8: 4414443813794621641
+      pixel_art__isometric__house_4_by_mimimiaart-d5zfp2q-231020785_9: -9007512514232753836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
