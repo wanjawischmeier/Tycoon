@@ -1,6 +1,9 @@
+<img width="1296" height="314" alt="grafik" src="https://github.com/user-attachments/assets/db278cb8-f74a-49ad-8905-c2867c7087ac" />
+<br>
+
 # Tycoon
 
-<img width="1296" height="314" alt="grafik" src="https://github.com/user-attachments/assets/db278cb8-f74a-49ad-8905-c2867c7087ac" />
+The basic idea for this game is to have a city builder from the perspective of the landlord. Where you are incentivized to engage in dubious business practices to meet your fathers expectations. So the whole thing would be kind of ironiously empathizing with that perspective.
 
 <table>
   <tr>
@@ -12,6 +15,21 @@
 </table>
 
 <br>
+
+# TODOs
+- [x] User data save system
+  - Balance 
+- [x] City data save system
+  - List of houses
+    - Is owned?
+    - Is morgaged
+    - Current rent
+    - Base rent
+    - etc.
+- [x] Isometric tile grid system
+- [x] Clickable houses
+- [x] House management system & UI
+- [x] Basic placeholder assets for city
 
 # Ideen
 - Luxussanierungen
